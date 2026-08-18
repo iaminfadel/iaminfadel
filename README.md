@@ -3,7 +3,7 @@
   │                                                              │
   │    AMIN FADEL                                                │
   │    Robotics & Embedded Software Engineer                     │
-  │    Ain Shams University · Mechatronics & Robotics (1st / 4.0)│
+  │    Ain Shams University · Mechatronics & Robotics            │
   │    Cairo, Egypt                                              │
   │                                                              │
   └──────────────────────────────────────────────────────────────┘
